@@ -1,0 +1,20 @@
+{
+  "LatestVersion": "1.0.0",
+  "ReleaseDate":"2022-12-29",
+  "Description": {
+    "New Feature":"Automatic Check Update",
+  },
+  "URLS": {
+    "URL1":"http://nexteer.aitech.link:8888/automation-report-generator/latest/AutomationReportGenerator.exe",
+    "URL2":"",
+    "URL3":""
+  },
+  "PreviousVersion":{
+	  "Preview":{
+		  "ReleaseDate":"2022-11-29",
+		  "Description":{
+        "New Feature":"Initial release",
+      }
+	  }
+  }
+}
