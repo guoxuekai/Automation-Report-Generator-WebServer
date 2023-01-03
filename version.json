@@ -1,11 +1,12 @@
 {
   "LatestVersion": "1.0.0",
-  "ReleaseDate":"2022-12-29",
+  "ReleaseDate":"2023-01-01",
   "Description": {
-    "New Feature":"Automatic Check Update"
+    "New Feature":"Automatic Check Update",
+    "Bug Fixed":"Error while TA without start/end datetime"
   },
   "URLS": {
-    "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/raw/master/latest/AutomationReportGenerator.exe",
+    "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
     "URL2":"http://nexteer.aitech.link:8888/automation-report-generator/latest/AutomationReportGenerator.exe",
     "URL3":""
   },
