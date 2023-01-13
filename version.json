@@ -1,9 +1,9 @@
 {
-  "LatestVersion": "1.0.0",
-  "ReleaseDate":"2023-01-01",
+  "LatestVersion": "1.0.1",
+  "ReleaseDate":"2023-01-11",
   "Description": {
     "New Feature":"Automatic Check Update",
-    "Bug Fixed":"Error while TA without start/end datetime"
+    "Bug Fixed":"Bug fixed: Error while LotX Description is null"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
