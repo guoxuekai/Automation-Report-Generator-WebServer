@@ -1,9 +1,8 @@
 {
-  "LatestVersion": "1.0.1",
+  "LatestVersion": "1.0.2",
   "ReleaseDate":"2023-01-11",
   "Description": {
-    "New Feature":"Automatic Check Update",
-    "Bug Fixed":"Bug fixed: Error while LotX Description is null"
+    "New Feature":"Access update server using a system proxy, fix connection issue while in NXTROFF network"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
@@ -11,11 +10,11 @@
     "URL3":""
   },
   "PreviousVersion":{
-	  "Preview":{
-		  "ReleaseDate":"2022-11-29",
-		  "Description":{
+    "Preview":{
+      "ReleaseDate":"2022-11-29",
+      "Description":{
         "New Feature":"Initial release"
       }
-	  }
+    }
   }
 }
