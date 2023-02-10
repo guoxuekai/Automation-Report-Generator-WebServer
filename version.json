@@ -1,8 +1,11 @@
 {
-  "LatestVersion": "1.0.2",
-  "ReleaseDate":"2023-01-11",
+  "LatestVersion": "1.1.0",
+  "ReleaseDate":"2023-02-10",
   "Description": {
-    "New Feature":"Access update server using a system proxy, fix connection issue while in NXTROFF network"
+    "Bug fixed:":"UserGuide/Changelog color issue",
+    "Bug fixed:":"Bug fixed: Change ProxyIP&Port method by request PAC link",
+    "New feature:":"Test Remarks display in the Testing Performed table",
+    "New feature:":"Add Summary of Testing section after Testing Performed table"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
