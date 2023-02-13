@@ -1,11 +1,8 @@
 {
-  "LatestVersion": "1.1.0",
-  "ReleaseDate":"2023-02-10",
+  "LatestVersion": "1.1.1",
+  "ReleaseDate":"2023-02-13",
   "Description": {
-    "Bug fixed:":"UserGuide/Changelog color issue",
-    "Bug fixed:":"Bug fixed: Change ProxyIP&Port method by request PAC link",
-    "New feature:":"Test Remarks display in the Testing Performed table",
-    "New feature:":"Add Summary of Testing section after Testing Performed table"
+    "New feature:":"New feature: Add checkbox( Check: Met/ Uncheck: Did Not Meet) at Test Lot Summary"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
