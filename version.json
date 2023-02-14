@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.1.1",
-  "ReleaseDate":"2023-02-13",
+  "LatestVersion": "1.1.2",
+  "ReleaseDate":"2023-02-14",
   "Description": {
-    "New feature:":"New feature: Add checkbox( Check: Met/ Uncheck: Did Not Meet) at Test Lot Summary"
+    "Bug fixed:": "Error response while download option selected in a pending TA(not submitted yet)"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
