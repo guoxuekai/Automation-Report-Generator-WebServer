@@ -1,8 +1,9 @@
 {
-  "LatestVersion": "1.1.3",
-  "ReleaseDate":"2023-04-17",
+  "LatestVersion": "1.1.4",
+  "ReleaseDate":"2023-04-20",
   "Description": {
-    "Bug fixed:": "Error response while Equipment Description is null"
+    "Optimize1": "Image download file type change from jpg only to jpg/bmp/png and case-insensitive",
+    "Optimize2": "While report generated success, information will be emitted"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
