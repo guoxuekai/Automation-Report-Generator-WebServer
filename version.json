@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.2.0",
-  "ReleaseDate":"2023-04-21",
+  "LatestVersion": "1.2.1",
+  "ReleaseDate":"2023-06-02",
   "Description": {
-    "New Feature": "Report with image option: GEAR/Local"
+    "Bug Fixed": "Download image with informaion notification"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
