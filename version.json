@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.2.2",
-  "ReleaseDate":"2024-04-02",
+  "LatestVersion": "1.2.3",
+  "ReleaseDate":"2025-06-12",
   "Description": {
-    "Update": "Get access data from Gear"
+    "Update": "Update: fixed add picture error in docx table"
   },
   "URLS": {
     "URL1":"https://gitee.com/guoxuekai/Automation-Report-Generator-WebServer/releases/download/latest/Automation%20Report%20Generator.exe",
